@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Remix: Copy of EduMind Predictor",
+  "description": "A full-stack AI-powered Student Performance and Mental Well-being Predictor Web Application.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
